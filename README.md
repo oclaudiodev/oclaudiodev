@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--<!-- README.md -->
 
 <h1 align="center">👋 Olá, eu sou José!</h1>
