@@ -15,7 +15,7 @@
 
 ## 🧠 Sobre mim
 
-Sou um entusiasta da tecnologia em transição de carreira, apaixonado por resolver problemas com código. Atualmente estou focado em aprender desenvolvimento web com **JavaScript**, **Node.js** e **React**.
+Atualmente focado em aprender mais e conseguir meu primeiro emprego na área tech, para conseguir me desenvolver melhor e colocar minhas reais habilidades em jogo!
 
 - 🎯 Buscando minha primeira oportunidade na área de tecnologia  
 - 📚 Estudando algoritmos, estrutura de dados e boas práticas de programação  
@@ -39,22 +39,28 @@ Sou um entusiasta da tecnologia em transição de carreira, apaixonado por resol
       <code>CSS3</code>
     </td>
     <td align="center">
-      <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noopener">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="64" />
-      </a><br/>
-      <code>JavaScript</code>
-    </td>
-    <td align="center">
       <a href="https://reactjs.org/" target="_blank" rel="noopener">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="64" />
       </a><br/>
       <code>React</code>
     </td>
     <td align="center">
+      <a href="https://sass-lang.com/" target="_blank" rel="noopener">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="64" />
+      </a><br/>
+      <code>Sass</code>
+    </td>
+    <td align="center">
       <a href="https://nodejs.org/" target="_blank" rel="noopener">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="64" />
       </a><br/>
       <code>Node.js</code>
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noopener">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="64" />
+      </a><br/>
+      <code>JavaScript</code>
     </td>
     <td align="center">
       <a href="https://www.mysql.com/" target="_blank" rel="noopener">
@@ -64,5 +70,14 @@ Sou um entusiasta da tecnologia em transição de carreira, apaixonado por resol
     </td>
   </tr>
 </table>
+
+---
+
+## 📊 Minhas Estatísticas no GitHub
+
+| ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=oclaudiodev&show_icons=true&theme=radical) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=oclaudiodev&layout=compact&theme=radical) |
+|---|---|
+
+---
 
 
