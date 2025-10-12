@@ -1,5 +1,3 @@
-<!--<!-- README.md -->
-
 <h1 align="center">👋 Olá, eu sou José!</h1>
 
 <p align="center">
@@ -68,6 +66,18 @@ Atualmente focado em aprender mais e conseguir meu primeiro emprego na área tec
       </a><br/>
       <code>MySQL</code>
     </td>
+    <td align="center">
+      <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noopener">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="64" />
+      </a><br/>
+      <code>C#</code>
+    </td>
+    <td align="center">
+      <a href="https://www.python.org/" target="_blank" rel="noopener">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="64" />
+      </a><br/>
+      <code>Python</code>
+    </td>
   </tr>
 </table>
 
@@ -77,7 +87,3 @@ Atualmente focado em aprender mais e conseguir meu primeiro emprego na área tec
 
 | ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=oclaudiodev&show_icons=true&theme=radical) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=oclaudiodev&layout=compact&theme=radical) |
 |---|---|
-
----
-
-
