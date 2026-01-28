@@ -6,7 +6,7 @@
 📍 Brasil  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Desenvolvedor%20Web-HTML%20%7C%20CSS%20%7C%20JS-blue" alt="Tech Badge">
+   <img src="https://img.shields.io/badge/Desenvolvedor%20Web-J%C3%BAnior%20%2F%20Estagi%C3%A1rio-blue" alt="Dev Badge">
   <img src="https://img.shields.io/badge/Trabalhando%20com-Node.js%20%7C%20React-brightgreen" alt="Working With Badge">
 </p>
 
