@@ -1,9 +1,14 @@
-<h1 align="center">👋 Olá, eu sou José!</h1>
+# 👋 Fala aí, eu sou o Claudio!  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Desenvolvedor%20Web-HTML%20%7C%20CSS%20%7C%20JS-blue" alt="Tech Badge">
   <img src="https://img.shields.io/badge/Aprendendo-Node.js%20%7C%20React-green" alt="Learning Badge">
 </p>
+
+💻 Programador em formação  
+🎓 Cursando Análise e Desenvolvimento de Sistemas (ADS)  
+🚀 Focado em programação 
+📍 Brasil  
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
@@ -13,77 +18,66 @@
 
 ## 🧠 Sobre mim
 
-Atualmente focado em aprender mais e conseguir meu primeiro emprego na área tech, para conseguir me desenvolver melhor e colocar minhas reais habilidades em jogo!
+Sou apaixonado por tecnologia e estou em constante evolução como desenvolvedor.  
+Gosto de transformar ideias em interfaces funcionais e projetos reais que resolvem problemas.
 
-- 🎯 Buscando minha primeira oportunidade na área de tecnologia  
-- 📚 Estudando algoritmos, estrutura de dados e boas práticas de programação  
-- 💡 Curioso, criativo e sempre pronto para aprender algo novo  
-
----
-
-## 🛠️ Tecnologias e Ferramentas que estou aprendendo
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noopener">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="64" />
-      </a><br/>
-      <code>HTML5</code>
-    </td>
-    <td align="center">
-      <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noopener">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="64" />
-      </a><br/>
-      <code>CSS3</code>
-    </td>
-    <td align="center">
-      <a href="https://reactjs.org/" target="_blank" rel="noopener">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="64" />
-      </a><br/>
-      <code>React</code>
-    </td>
-    <td align="center">
-      <a href="https://sass-lang.com/" target="_blank" rel="noopener">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="64" />
-      </a><br/>
-      <code>Sass</code>
-    </td>
-    <td align="center">
-      <a href="https://nodejs.org/" target="_blank" rel="noopener">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="64" />
-      </a><br/>
-      <code>Node.js</code>
-    </td>
-    <td align="center">
-      <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noopener">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="64" />
-      </a><br/>
-      <code>JavaScript</code>
-    </td>
-    <td align="center">
-      <a href="https://www.mysql.com/" target="_blank" rel="noopener">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="64" />
-      </a><br/>
-      <code>MySQL</code>
-    </td>
-    <td align="center">
-      <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noopener">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="64" />
-      </a><br/>
-      <code>C#</code>
-    </td>
-    <td align="center">
-      <a href="https://www.python.org/" target="_blank" rel="noopener">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="64" />
-      </a><br/>
-      <code>Python</code>
-    </td>
-  </tr>
-</table>
+🎯 Buscando minha primeira oportunidade na área de tecnologia  
+📚 Estudando algoritmos, estrutura de dados e boas práticas de programação  
+💡 Curioso, criativo e sempre pronto para aprender algo novo  
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub
+## 🛠️ Tecnologias que uso
 
-| ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=oclaudiodev&show_icons=true&theme=radical) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=oclaudiodev&layout=compact&theme=radical) |
-|---|---|
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="Postman" height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+</div>
+
+---
+
+## 🚀 Tecnologias que estou aprendendo
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
+---
+
+## 📌 Projetos em destaque
+
+🔹 [Sistema Login](https://github.com/oclaudiodev/SistemaLogin)  
+🔹 [TCC](https://github.com/oclaudiodev/TCC)  
+🔹 [Feira de Profissões](https://github.com/oclaudiodev/feiraDeProfissoes)  
+🔹 [Portfólio](https://github.com/oclaudiodev/portfolio)
+
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <a href="https://github.com/oclaudiodev">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=oclaudiodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oclaudiodev&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</div>
+
+---
+
+## 🌎 Onde me encontrar
+
+📧 7claudiosouza@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/josé-claudio-015b08248)
+
+---
+
+⭐ Sempre aprendendo, sempre construindo.
