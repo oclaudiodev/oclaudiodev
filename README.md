@@ -1,14 +1,14 @@
 # 👋 Fala aí, eu sou o Claudio!  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Desenvolvedor%20Web-HTML%20%7C%20CSS%20%7C%20JS-blue" alt="Tech Badge">
-  <img src="https://img.shields.io/badge/Aprendendo-Node.js%20%7C%20React-green" alt="Learning Badge">
-</p>
-
 💻 Programador em formação  
 🎓 Cursando Análise e Desenvolvimento de Sistemas (ADS)  
 🚀 Focado em programação 
 📍 Brasil  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Desenvolvedor%20Web-HTML%20%7C%20CSS%20%7C%20JS-blue" alt="Tech Badge">
+  <img src="https://img.shields.io/badge/Aprendendo-Node.js%20%7C%20React-green" alt="Learning Badge">
+</p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
@@ -76,7 +76,7 @@ Gosto de transformar ideias em interfaces funcionais e projetos reais que resolv
 ## 🌎 Onde me encontrar
 
 📧 7claudiosouza@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/josé-claudio-015b08248)
+💼 [LinkedIn](https://www.linkedin.com/in/josé-claudio/)
 
 ---
 
