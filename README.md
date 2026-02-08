@@ -63,14 +63,10 @@ Gosto de transformar ideias em interfaces funcionais e projetos reais que resolv
 
 ---
 
+
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <a href="https://github.com/oclaudiodev">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=oclaudiodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oclaudiodev&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=oclaudiodev&theme=tokyonight)
 
 ---
 
