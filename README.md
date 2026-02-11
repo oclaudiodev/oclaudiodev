@@ -44,10 +44,10 @@ Gosto de transformar ideias em interfaces funcionais e projetos reais que resolv
 
 ---
 
-## 🚀 Tecnologias que estou aprendendo
+## 🚀 Tecnologias que estou aprendendo no Senac e em casa.
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
