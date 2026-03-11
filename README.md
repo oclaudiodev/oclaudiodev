@@ -5,6 +5,13 @@
 🚀 Focado em programação 
 📍 Brasil  
 
+---
+<br></br>
+
+<div align="center">
+
+</div>
+
 <p align="center">
    <img src="https://img.shields.io/badge/Desenvolvedor%20Web-J%C3%BAnior%20%2F%20Estagi%C3%A1rio-blue" alt="Dev Badge">
   <img src="https://img.shields.io/badge/Trabalhando%20com-Node.js%20%7C%20React-brightgreen" alt="Working With Badge">
@@ -16,7 +23,6 @@
 </div>
 
 ---
-
 ## 🧠 Sobre mim
 
 Sou apaixonado por tecnologia e estou em constante evolução como desenvolvedor.  
@@ -24,35 +30,9 @@ Gosto de transformar ideias em interfaces funcionais e projetos reais que resolv
 
 🎯 Buscando minha primeira oportunidade na área de tecnologia  
 📚 Estudando algoritmos, estrutura de dados e boas práticas de programação  
-💡 Curioso, criativo e sempre pronto para aprender algo novo  
+💡 Curioso, criativo e sempre pronto para aprender algo novo 
 
 ---
-
-## 🛠️ Tecnologias que uso
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="Postman" height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
-</div>
-
----
-
-## 🚀 Tecnologias que estou aprendendo no Senac e em casa.
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-
----
-
 ## 📌 Projetos em destaque
 
 🔹 [Sistema Login](https://github.com/oclaudiodev/SistemaLogin)  
@@ -60,21 +40,52 @@ Gosto de transformar ideias em interfaces funcionais e projetos reais que resolv
 🔹 [Feira de Profissões](https://github.com/oclaudiodev/feiraDeProfissoes)  
 🔹 [Portfólio](https://github.com/oclaudiodev/portfolio)
 
-
 ---
+<div align="center">
+<br></br>
+   
+## 🛠️ Tecnologias que uso
+
+<img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,python,mysql,sass,git,github,postman,figma&theme=dark" height="65"/>
 
 
-## 📊 Estatísticas do GitHub
+<br></br>
+## 📚 Atualmente estudando
 
-![GitHub Streak](https://streak-stats.demolab.com?user=oclaudiodev&theme=tokyonight)
+<img src="https://img.shields.io/badge/Oracle-Database%20Design-red?style=for-the-badge&logo=oracle&logoColor=white"/>
 
----
+<img src="https://img.shields.io/badge/Oracle-Database%20Foundations-red?style=for-the-badge&logo=oracle&logoColor=white"/>
 
-## 🌎 Onde me encontrar
+<br><br>
 
-📧 7claudiosouza@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/josé-claudio/)
+🧠 Estudando **modelagem de banco de dados, SQL, normalização e fundamentos de bancos relacionais** através dos cursos da Oracle.
 
----
+<br><br>
 
-⭐ Sempre aprendendo, sempre construindo.
+
+<div align="center">
+   
+ <h1>🌎 Onde me encontrar</h1>
+
+<div align="center">
+
+<a href="mailto:7claudiosouza@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+
+<a href="https://www.linkedin.com/in/josé-claudio/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="https://oclaudiodev-portfolio.vercel.app">
+<img src="https://skillicons.dev/icons?i=vercel" height="40"/>
+</a>
+
+</div>
+</div>
+
+<br><br>
+
+⭐ **Sempre aprendendo, sempre construindo.**
+
+</div>
