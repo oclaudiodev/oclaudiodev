@@ -52,12 +52,10 @@
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| 🔐 [Sistema Login](https://github.com/oclaudiodev/SistemaLogin) | Sistema de autenticação com JWT | Node.js, Express, MySQL |
-| 📁 [TCC](https://github.com/oclaudiodev/TCC) | Trabalho de Conclusão de Curso | React.js, Node.js, MySQL |
-| 🎪 [Feira de Profissões](https://github.com/oclaudiodev/feiraDeProfissoes) | Site para evento escolar | HTML, CSS, JS |
-| 🌐 [Portfólio](https://github.com/oclaudiodev/portfolio) | Portfólio pessoal online | React, Vite |
-| 🎮 [Fubuki Esports](https://github.com/oclaudiodev/fubuki) | Fan site para player de Free Fire | React, Three.js |
-
+|  [CRUD Clientes & Contatos](https://github.com/oclaudiodev/CRUD-clientes-contatos) | Sistema completo para gerenciamento de clientes e contatos | Java, CSV |
+|  [Copa do Mundo](https://github.com/oclaudiodev/CopaDoMundo) | Projeto para análise ou manipulação de dados da Copa | Python, Sqlite |
+|  [Conectando Gerações](https://github.com/oclaudiodev/TCC) | Plataforma desenvolvida com foco na segurança digital (público alvo 50, 60+) | React.js, Node.js, MySQL, Express, Jwt |
+|  [Portfólio](https://github.com/oclaudiodev/portfolio) | Portfólio pessoal online | React, Vite |
 ---
 
 ## 📚 Atualmente estudando
@@ -77,7 +75,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oclaudiodev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oclaudiodev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </div>
 
 ---
